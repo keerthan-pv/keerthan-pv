@@ -3,8 +3,6 @@
   <img src="https://komarev.com/ghpvc/?username=keerthan-pv&label=Profile%20views&color=blue&style=flat" alt="keerthan-pv" />
 </p>
 
---
-
 - 🔭 I’m currently working on UI/UX  
 - 🌱 I’m currently learning CSE  
 - 👯 I’m looking to collaborate on ...  
@@ -42,6 +40,5 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/main/wave.svg" alt="wave animation" />
+  <img src="https://raw.githubusercontent.com/keerthan-pv/keerthan-pv/main/animated-wave.svg" alt="Animated Wave" />
 </p>
-
