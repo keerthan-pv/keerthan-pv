@@ -1,5 +1,13 @@
 <h1 align='center'>Hi 👋, I'm <strong>Keerthan P.V</strong></h1>
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=keerthan-pv&label=Profile%20views&color=blue&style=flat" alt="keerthan-pv" />
+</p>
+
+--
+
 - 🔭 I’m currently working on UI/UX  
 - 🌱 I’m currently learning CSE  
 - 👯 I’m looking to collaborate on ...  
@@ -11,7 +19,7 @@
 
 ---
 
-## 📊 GitHub Contribution Streak  
+ GitHub Contribution Streak  
 
 <p align="center">
   <a href="https://git.io/streak-stats">
@@ -21,7 +29,7 @@
 
 ---
 
-## 📈 GitHub Stats  
+ GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=keerthan-pv&show_icons=true&theme=dark&border_color=FFA500&border_radius=10" alt="GitHub Stats" />
@@ -29,16 +37,17 @@
 
 ---
 
-## 🔥 Profile Views  
+ Tech Stack  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=keerthan-pv&label=Profile%20views&color=blue&style=flat" alt="keerthan-pv" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,react,mongodb,github,linux,wordpress" />
 </p>
 
----
+--
 
-## 🚀 Tech Stack  
+## 🌊 Animated Wave Effect  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,tailwind,js,react,nextjs,vercel,go,mysql,figma,git,github,linux,wordpress" />
+  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/main/wave.svg" alt="wave animation" />
 </p>
+
