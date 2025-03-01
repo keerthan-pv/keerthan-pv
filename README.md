@@ -1,4 +1,4 @@
-<h1 align='center'>Hi 👋, I'm Keerthan P.V</h1>
+<h1 align='center'>Hi 👋, I'm <bold>Keerthan P.V</bold></h1>
 
 - 🔭 I’m currently working on UI/UX
 - 🌱 I’m currently learning CSE
