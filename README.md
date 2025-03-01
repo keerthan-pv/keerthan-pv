@@ -1,7 +1,4 @@
 <h1 align='center'>Hi 👋, I'm <strong>Keerthan P.V</strong></h1>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=keerthan-pv&label=Profile%20views&color=blue&style=flat" alt="keerthan-pv" />
 </p>
@@ -43,9 +40,6 @@
   <img src="https://skillicons.dev/icons?i=python,c,html,css,js,react,mongodb,github,linux,wordpress" />
 </p>
 
---
-
-## 🌊 Animated Wave Effect  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/main/wave.svg" alt="wave animation" />
