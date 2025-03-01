@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=keerthan-pv&theme=dark&hide_border=false&border=FFA500&border_radius=10" alt="GitHub Streak" width="400" height="400"/>
+    <img src="https://streak-stats.demolab.com?user=keerthan-pv&theme=dark&hide_border=false&border=FFA500&border_radius=10" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 <h1>GitHub Stats</h1>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keerthan-pv&show_icons=true&theme=dark&border_color=FFA500&border_radius=10" alt="GitHub Stats" width="400" height="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=keerthan-pv&show_icons=true&theme=dark&border_color=FFA500&border_radius=10" alt="GitHub Stats" />
 </p>
 
 
