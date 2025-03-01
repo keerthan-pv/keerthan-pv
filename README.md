@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: Live present...  
 
-GitHub Contribution Streak  
+<h2>GitHub Contribution Streak</h2> 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=keerthan-pv&theme=dark&hide_border=false&border=FFA500&border_radius=10)](https://git.io/streak-stats)
+<p align='center'>[![GitHub Streak](https://streak-stats.demolab.com?user=keerthan-pv&theme=dark&hide_border=false&border=FFA500&border_radius=10)](https://git.io/streak-stats)</p>
 
