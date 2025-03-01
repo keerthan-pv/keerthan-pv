@@ -14,7 +14,7 @@
 
 ---
 
-<h1 align="center">GitHub Contribution Streak</h1>
+ <h1>GitHub Contribution Streak</h1>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
@@ -24,22 +24,17 @@
 
 ---
 
-<h1 align="center">GitHub Stats</h1>  
+<h1>GitHub Stats</h1>  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=keerthan-pv&show_icons=true&theme=dark&border_color=FFA500&border_radius=10" alt="GitHub Stats" />
 </p>
 
+
 ---
 
-<h1 align="center">Tech Stack</h1>  
+<h1>Tech Stack</h1>  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,html,css,js,react,mongodb,github,linux,wordpress" />
-</p>
-
----
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/keerthan-pv/keerthan-pv/main/assets/waves.png" alt="Wave Divider" />
 </p>
