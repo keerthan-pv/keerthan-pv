@@ -21,7 +21,6 @@
     <img src="https://streak-stats.demolab.com?user=keerthan-pv&theme=dark&hide_border=false&border=FFA500&border_radius=10" alt="GitHub Streak" />
   </a>
 </p>
----
 
 <h1>GitHub Stats</h1>  
 
