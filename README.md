@@ -17,11 +17,10 @@
 <h1>GitHub Contribution Streak</h1>
 
 <p align="center">
-  <a href="https://streak-stats.demolab.com?user=keerthan-pv">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=keerthan-pv&theme=dark&hide_border=false&border=FFA500&border_radius=10" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=keerthan-pv&theme=dark&hide_border=false&border=FFA500&border_radius=10" alt="GitHub Streak" />
   </a>
 </p>
-
 ---
 
 <h1>GitHub Stats</h1>  
