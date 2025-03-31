@@ -10,7 +10,6 @@
 - 💬 Ask me about ...  
 - 📫 How to reach me: keerthanpv2004@gmail.com  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: Live present...  
 
 ---
 
