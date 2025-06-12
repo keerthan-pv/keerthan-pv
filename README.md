@@ -33,5 +33,5 @@
 <h1>Tech Stack</h1>  
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=python,c,c++,html,css,js,react,mongodb,github,linux,wordpress" />
+   <img src="https://skillicons.dev/icons?i=python,c,html,css,js,react,mongodb,github,linux,wordpress" />
 </p>
