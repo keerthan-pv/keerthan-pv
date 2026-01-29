@@ -1,4 +1,4 @@
-![MasterHead](./forGithub.png)
+![MasterHead](forGithub.png)
 <h1 align="center">Hi Devs!👋 I'm Keerthan P V 🍁</h1>
 <h3 align="center">A Passionate Tech Enthusiast and a CSE Undergrad.</h3> 
 <div style="margin-top: 50px;">
