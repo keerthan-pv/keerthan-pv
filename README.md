@@ -24,11 +24,16 @@
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keerthan-pv&show_icons=true&theme=dark&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keerthan-pv&show_icons=true&theme=dark)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=keerthan-pv&theme=dark&hide_border=false)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keerthan-pv&layout=compact&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=keerthan-pv&theme=dark)
+
+<br/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keerthan-pv&layout=compact&theme=dark)
+
 
 ### ✍️ Today's Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
