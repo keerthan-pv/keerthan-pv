@@ -3,9 +3,7 @@
 <h3 align="center">A Passionate Tech Enthusiast and a CSE Undergrad.</h3> 
 
 # 💫 About Me:
-<div style="margin-top: 50px;">
-    <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</div>
+<img align="right" alt="Coding" width="400" style="margin-top: 50px;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 🔭 I’m currently working on **ADARAG**<br><br>
 🌱 I’m currently learning **Generative AI**<br><br>
 👯 I’m ready to collaborate on **any project**<br><br>
