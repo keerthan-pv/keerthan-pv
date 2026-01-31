@@ -1,8 +1,7 @@
 ![MasterHead](forGithub)
 <h1 align="center">Hi Devs!👋 I'm Keerthan P V 🍁</h1>
 <h3 align="center">A Passionate Tech Enthusiast and a CSE Undergrad.</h3> 
-<div style="margin-top: 400px;">
-    <br><br><br><br><br>
+<div style="margin-top: 50px;">
     <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 
