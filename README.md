@@ -1,7 +1,7 @@
 ![MasterHead](forGithub)
 <h1 align="center">Hi Devs!👋 I'm Keerthan P V 🍁</h1>
 <h3 align="center">A Passionate Tech Enthusiast and a CSE Undergrad.</h3> 
-<div style="margin-top: 50px;">
+<div style="margin-top: 500px;">
     <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 
@@ -12,8 +12,6 @@
 💬 Ask me about **React, Git**<br><br>
 👨‍💻 Visit my portfolio: [Keerthan's Portfolio](https://keerthanpv.netlify.app/)<br><br>
 📫 How to reach me **keerthanpv2004@gmail.com**<br><br>
-⚡ My specialty? **Turning coffee into code!**<br><br>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/p.v__creations/)
