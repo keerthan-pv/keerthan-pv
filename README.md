@@ -10,7 +10,7 @@
 🌱 I’m currently learning **Generative AI**<br><br>
 👯 I’m ready to collaborate on **any project**<br><br>
 💬 Ask me about **React, Git**<br><br>
-👨‍💻 Visit my portfolio: [Keerthan's Portfolio](https://keerthanpv.netlify.app/)<br><br>
+👨‍💻 Visit my portfolio: [Keerthan's Portfolio](https://my-personal-portfolio-pv.netlify.app/)<br><br>
 📫 How to reach me **keerthanpv2004@gmail.com**<br><br>
 
 ## 🌐 Socials:
