@@ -7,9 +7,9 @@
 <img align="right" alt="Coding" width="400" style="margin-top: 50px;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 🔭 I’m currently working on **ADARAG**<br><br>
-🌱 I’m currently learning **Generative AI**<br><br>
+🌱 I’m currently learning **Kubernetes & Docker**<br><br>
 👯 I’m ready to collaborate on **any project**<br><br>
-💬 Ask me about **React, Git**<br><br>
+💬 Ask me about **Data Structures & Algorithms**<br><br>
 👨‍💻 Visit my portfolio: [Keerthan's Portfolio](https://my-personal-portfolio-pv.netlify.app/)<br><br>
 📫 How to reach me **keerthanpv2004@gmail.com**<br><br>
 
