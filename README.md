@@ -39,11 +39,14 @@
 ![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=keerthan-pv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com?user=keerthan-pv&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=keerthan-pv&layout=compact&theme=tokyonight&hide_border=true)
 
+![](https://github-readme-stats.vercel.app/api?username=keerthan-pv&show_icons=true&bg_color=0d1117&title_color=ff8800&text_color=ffffff&icon_color=ff8800&border_color=ff8800)
+
+![](https://streak-stats.demolab.com?user=keerthan-pv&background=0d1117&ring=ff8800&fire=ff8800&currStreakLabel=ff8800&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border=ff8800)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=keerthan-pv&layout=compact&bg_color=0d1117&title_color=ff8800&text_color=ffffff&border_color=ff8800)
 ---
-[![](https://visitcount.itsvg.in/api?id=keerthan-pv&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![Profile Views](https://hits.sh/github.com/keerthan-pv.svg?style=flat-square&label=Profile%20Views&color=ff8800)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
