@@ -38,18 +38,11 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
-<div align="center">
 ## 📊 GitHub Stats
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=keerthan-pv&show_icons=true&bg_color=0d1117&title_color=ff8800&text_color=ffffff&icon_color=ff8800&border_color=ff8800" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthan-pv&layout=compact&bg_color=0d1117&title_color=ff8800&text_color=ffffff&border_color=ff8800" />
-
-<br><br>
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=keerthan-pv&background=0d1117&ring=ff8800&fire=ff8800&currStreakLabel=ff8800&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border=ff8800" />
-
 <br><br>
-
 <img src="https://hits.sh/github.com/keerthan-pv.svg?style=flat-square&label=Profile%20Views&color=ff8800" alt="Profile Views"/>
 
 </div>
