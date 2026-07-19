@@ -37,14 +37,11 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=keerthan-pv&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=keerthan-pv&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=keerthan-pv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-### ✍️ Today's Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=keerthan-pv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com?user=keerthan-pv&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=keerthan-pv&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=keerthan-pv&icon=0&color=0)](https://visitcount.itsvg.in)
